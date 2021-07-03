@@ -5,7 +5,7 @@ import Proyectos from './components/proyectos/Proyectos';
 
 function App() {
   return (
-    <h1>Seguimos en amntenimiento</h1>
+    <h1>I can't believe it</h1>
   );
 }
 
