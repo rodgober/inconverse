@@ -5,13 +5,7 @@ import Proyectos from './components/proyectos/Proyectos';
 
 function App() {
   return (
-    <Router>
-      <Switch>
-        <Route exact path="/" component={Login} />
-        <Route exact path="/nueva-cuenta" component={NuevaCuenta} />
-        <Route exact path="/proyectos" component={Proyectos} />
-      </Switch>
-    </Router>
+    <h1>Prueba de react, git pages, custom domain </h1>
   );
 }
 
