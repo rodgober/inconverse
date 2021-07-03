@@ -5,7 +5,7 @@ import Proyectos from './components/proyectos/Proyectos';
 
 function App() {
   return (
-    <h1>Prueba de react, git pages, custom domain </h1>
+    <h1>Seguimos en amntenimiento</h1>
   );
 }
 
